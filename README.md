@@ -1,4 +1,4 @@
-
+![giphy](https://github.com/user-attachments/assets/b0e91251-8e05-473e-a9fa-c499255135a2)
 # Welcome to hyeji Github :)
 ### Tech Stack ✨
 
